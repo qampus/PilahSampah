@@ -14,7 +14,7 @@ public class Gameover : MonoBehaviour {
 		{
 			DeteksiSampah.score = 0;
 			SceneManager.LoadScene("Gameplay", LoadSceneMode.Single);
-
+            //testDrives
 		}
 	}
 }
